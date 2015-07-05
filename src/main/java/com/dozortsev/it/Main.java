@@ -24,6 +24,8 @@ public class Main implements CommandLineRunner {
 
     @Override
     public void run(String... strings) throws Exception {
+        System.out.printf("%nMain#run%n");
+
         final long start = nanoTime();
 
         Future<Integer> page1 = issueService.findPage(10);
