@@ -1,4 +1,4 @@
-package com.dozortsev.it.domain;
+package com.dozortsev.it.com.dozortsev.it.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
