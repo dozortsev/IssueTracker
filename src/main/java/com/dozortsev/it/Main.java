@@ -1,6 +1,6 @@
 package com.dozortsev.it;
 
-import com.dozortsev.it.com.dozortsev.it.service.IssueService;
+import com.dozortsev.it.service.IssueService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

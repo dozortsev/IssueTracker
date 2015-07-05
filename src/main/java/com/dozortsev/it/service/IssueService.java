@@ -1,4 +1,4 @@
-package com.dozortsev.it.com.dozortsev.it.service;
+package com.dozortsev.it.service;
 
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.AsyncResult;
