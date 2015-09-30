@@ -6,7 +6,10 @@
 	<groupId>com.dozortsev.it</groupId>
 	<artifactId>IssueTracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>examples</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>IssueTracker</name>
 
